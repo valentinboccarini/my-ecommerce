@@ -1,8 +1,33 @@
-# React + Vite
+PROYECTO REACT UTN TRABAJO PRACTICO OBLIGATORIO N°2:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CONSIGNA:
 
-Currently, two official plugins are available:
+Desarrollar un pequeño ecommerce con las siguientes paginas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Registro
++Solo realizar maquetado, no se debe guardar el usuario en ninguna base de datos
+
+-Login
++Solo realizar maquetado, no se debe guardar el usuario en ninguna base de datos
+
+-Home
++Se debera visualizar al menos un listado de 4 productos obtenidos de una fuente externa (api resto o archivo json)
+
+-Pagina de detalle de producto
++Mostrar el detalle de un producto, obteniendo los datos de una api resto o archivo json. Algunos campos a visualizar son:
++Nombre
++Descripción
++Precio
++Botón "Comprar"
+
+
+Formato de entrega:
+
+Link al repositorio o a la app desplegada
+
+
+
+Fechas de entrega:
+
+
+Entrega plazo máximo 9 de julio
